@@ -1,0 +1,9 @@
+#ws{
+    margin: 5em auto;
+}
+
+body{
+    background-image: url("/img/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
